@@ -1,0 +1,5 @@
+def sum(x,y):
+    s=x+y
+    return s
+
+sum(10,15)
